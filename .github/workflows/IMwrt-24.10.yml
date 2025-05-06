@@ -19,6 +19,7 @@ on:
           - cmcc_rax3000me
           - cmcc_xr30
           - cmcc_xr30-emmc
+          - elife_etr631-t
       enable_5g_25db:
         description: '启用 5G 25dB 修改'
         type: boolean
